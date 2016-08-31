@@ -1,0 +1,13 @@
+
+div.out {
+	height:50px;
+	display: inline-block;
+}
+
+div.in {
+	width: 50px;
+	height: 50px;
+	background-color: black;
+	display: inline-block;
+	border-radius: 10px;
+}
